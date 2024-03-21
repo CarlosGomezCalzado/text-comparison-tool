@@ -13,7 +13,7 @@ This project is a text comparison tool implemented in Go. It allows users to com
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/CarlosGomezCalzado/text-comparison-tool.git
     ```
 
 2. Navigate to the project directory:
